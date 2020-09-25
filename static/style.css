@@ -1,0 +1,169 @@
+#banner {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: cursive;
+}
+.banner-img{
+  height: 40px;
+  width: 40px;
+}
+h1, h2, h3, h4, h5 {
+  font-family: Georgia, Helvetica, Arial;
+}
+.navli > ul > li > a {
+  font-size: 16px;
+  font-family: sans-serif, helvetica, times;
+  text-transform: uppercase;
+}
+.jumbotron {
+  background-color: #f9f9f9;
+
+}
+.heading-d {
+  height: 80px;
+  width: 100px;
+  text-align: center;
+}
+.heading-d > p {
+  font-family: cursive;
+}
+.heading-b {
+  height: auto;
+  width: 90%;
+  text-align: justify;
+}
+.img-media{
+  width:30%;
+  height:10%;
+}
+.img-card {
+  height: 40%;
+  width: 100%;
+}
+
+.get-involved > div {
+  font-size: 35px;
+}
+
+.get-involved, .bg-col, .heading-d, .about-us, .faq-nav, .h1-responsive, .manual {
+  background-image: url("https://popmenucloud.com/lkpgohze/a7aec731-56bd-42cb-8205-7522dfd04428.png");
+}
+.footer2 > p {
+  font-size: 12px;
+}
+
+.footer-top {
+  text-transform: uppercase;
+  color: black;
+}
+
+.footer-top > nav > ul > li > a{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  font-size: 14px;
+  font-family: verdana, helvetica, times;
+}
+.footer-top > nav > ul > li > a:hover{
+  color: #B7E9F7;
+}
+.footer-top > nav > ul {
+  text-align: left;
+  list-style:none;
+  padding-left:0;
+
+}
+.footer-header > a {
+  color:black;
+  text-decoration: none;
+}
+.footer-header > a:hover {
+  color:#B7E9F7;
+}
+.mailing-address > h5 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.address{
+  font-size: 12px;
+}
+.c1{
+  background-image: url("https://i.guim.co.uk/img/media/cb63d84375dcd5b5c49328283b680377addd6864/0_276_5150_3090/master/5150.jpg?width=700&quality=85&auto=format&fit=max&s=3866772d07dfcdc44547a9653b2c5e03");
+  background-color: #ccc;
+}
+
+.c2 {
+  background-image: url("https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Perfect-Sunset-Nature-Background-Image.jpeg");
+  background-color: #cce;
+}
+
+.c4 {
+  background-image: url("https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+
+.c3{
+  background-color: #ccc;
+}
+
+.footer-social > ul {
+  text-align: left;
+  list-style:none;
+  padding-left:0;
+}
+.img-responsive {
+  height: 19px;
+  width: 19px;
+  margin-right: 5px;
+}
+
+.mix {
+  background-color: #f9f9f9;
+}
+
+/* styling for FAQ */
+
+.faq-nav > nav> ul > li {
+  list-style: none;
+}
+.navlink {
+  text-decoration: none;
+  color: black;
+}
+
+.about-us > div {
+  font-size: 24px;
+}
+.title{
+  font-family: cursive;
+}
+
+.details {
+  margin: 20px;
+}
+
+.details > a {
+  text-decoration: none;
+  color: black;
+}
+
+/* styling for contact us goes here*/
+.h1-responsive {
+    font-size: 150%;
+}
+.w-responsive {
+    width: 75%;
+}
+.md-form {
+    font-weight: 300;
+    margin: 0 5px 1px 8px;
+    border-color: #4285f4;
+    color: #000;
+}
+
+.form-control{
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+}
